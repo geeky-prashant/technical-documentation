@@ -8,7 +8,7 @@
   <br />
 
   <h2 align="center">Technical Documentation</h2>
-In this project, I have build a technical documentation page, <br />The project is built using HTML5 & CSS3.
+In this project, I have build a technical documentation page, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/technical-documentation/"><strong>➥ Live Demo</strong></a>
 
